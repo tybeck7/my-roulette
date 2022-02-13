@@ -21,3 +21,8 @@ Given where I am and what type of food I am interested in when I hit the rouelet
 - foundation
 
 ## Deployed page 
+
+https://tybeck7.github.io/my-roulette/#
+
+![Screen Shot 2022-02-13 at 12 13 54 PM](https://user-images.githubusercontent.com/94310083/153773041-016cc88b-97d0-49ec-9410-7f1870e63b8d.png)
+
